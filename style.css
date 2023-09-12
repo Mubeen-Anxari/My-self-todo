@@ -1,0 +1,55 @@
+h1{
+    color: aliceblue;
+    font-style: italic;
+}
+  .container {
+    text-align: center;
+    width: 300px;
+    padding: 33px;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 100px;
+    border-radius: 10px;
+    background-color: rgb(2, 2, 27);
+  }
+  input{
+      width: 200px;
+      /* padding: 8px; */
+      height: 30px;
+      color: blue;
+      border: none;
+      
+      font-size: 15px;
+      outline: none;
+      
+      border-radius: 8px;
+  }
+  button{
+      width: 60px;
+      height: 33px;
+      padding-bottom: -10px;
+     background-color: blue;
+     cursor: pointer;
+      color: aliceblue;
+      outline: none;
+      border: none;
+      border-radius: 8px;
+  }
+  .text ul{
+    position: relative;
+    color: aliceblue;
+    border-radius: 10px;
+    background-color: white;
+    color: red;
+    font-size: 19px;
+    padding: 5px;
+    text-align: left;
+    font-weight: bolder;
+    font-style: italic;
+    }
+    .text ul i{
+      position: absolute;
+      right: 10px;
+      cursor: pointer;
+    }
+  
